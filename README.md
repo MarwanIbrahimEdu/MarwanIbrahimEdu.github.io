@@ -1,4 +1,3 @@
-<!doctype html>
 <title>Site Maintenance</title>
 <style>
     body { text-align: center; padding: 150px; }
